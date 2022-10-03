@@ -6,3 +6,4 @@
 + main = главный
 + git branch -M main = перейти на ветку "главный"
 + git push -u origin main = первоначальная отправка файла на удаленный repo
++ pull request = 
